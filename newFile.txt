@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi, Ann
+=======
+Hi, my dear friend!
+>>>>>>> develop
