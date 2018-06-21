@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi! Glad to see you here again!
+=======
+Hi!
+>>>>>>> 9b6a19b... Fixed file text
